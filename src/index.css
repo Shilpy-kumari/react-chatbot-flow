@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 250px;
+  border-right: 1px solid #ddd;
+  padding: 10px;
+}
+
+.settings {
+  width: 250px;
+  border-left: 1px solid #ddd;
+  padding: 10px;
+}
+
+.flow-wrapper {
+  flex: 1;
+}
