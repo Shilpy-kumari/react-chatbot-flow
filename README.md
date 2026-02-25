@@ -3,7 +3,7 @@
 
 ## GitHub Repository
 
-https://github.com/Shilpy-kumari/react-chat-flow-builder
+[https://github.com/Shilpy-kumari/react-chat-flow-builder](https://github.com/Shilpy-kumari/react-chatbot-flow)
 
 ---
 
@@ -58,8 +58,8 @@ Users can create chatbot message flows by adding nodes and connecting them.
 ## Installation
 
 ```bash
-git clone https://github.com/Shilpy-kumari/react-chat-flow-builder
-cd react-chat-flow-builder
+git clone https://github.com/Shilpy-kumari/react-chatbot-flow
+cd react-chatbot-flow
 npm install
 npm run dev
 ```
